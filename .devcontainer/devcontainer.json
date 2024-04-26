@@ -8,8 +8,8 @@
 				"ms-python.python",
 				"ms-python.debugpy",
 				"KevinRose.vsc-python-indent",
-				"aaron-bond.better-comments",
-				"usernamehw.errorlens"
+				"usernamehw.errorlens",
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	}
