@@ -1,4 +1,3 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14772235)
 # Project 8: Contacts
 
 Teacher: David Steedman
@@ -21,3 +20,5 @@ This repository contains Project 8 for the MHS Software Engineering class. The f
 - Deepen comprehension of functions and procedural programming concepts.
 - Apply logical thinking and problem-solving skills in a practical programming task.
 - Prepare for the transition to object-oriented programming in future lessons.
+
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14772235)
